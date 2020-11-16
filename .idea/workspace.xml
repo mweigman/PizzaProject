@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58538030-06e2-46ba-a88e-682d3e3aebb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jr0ODZeGalPYYyUj49LTCBlk7O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58538030-06e2-46ba-a88e-682d3e3aebb3" name="Default Changelist" comment="" />
+      <created>1604546869173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604546869173</updated>
+      <workItem from="1604546870251" duration="7153000" />
+      <workItem from="1604691079249" duration="927000" />
+      <workItem from="1604695277998" duration="7933000" />
+      <workItem from="1605291192316" duration="64000" />
+      <workItem from="1605295794131" duration="18023000" />
+      <workItem from="1605487459137" duration="7250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="160" key="#Inspections" timestamp="1605473709716">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="379" y="160" key="#Inspections/0.0.1504.963@0.0.1504.963" timestamp="1605473709716" />
+    <state x="676" y="223" key="run.anything.popup" timestamp="1605487619479">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="676" y="223" key="run.anything.popup/0.0.1504.963@0.0.1504.963" timestamp="1605487619479" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1605481065470">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1605481065470" />
+  </component>
+</project>
